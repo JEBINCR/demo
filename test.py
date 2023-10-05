@@ -1,4 +1,4 @@
 massage = "hii ,jebin_cr"
 
 print(massage)
-#massage
+#massage are print
